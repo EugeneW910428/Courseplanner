@@ -1,0 +1,75 @@
+/* ScheduleGenerator.css */
+
+.schedule-generator {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.form {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    background-color: #0073e6;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #005bb5;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+}
+
+.schedule {
+    margin-top: 20px;
+}
+
+.quarters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.quarter-card {
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 5px;
+    width: 200px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.quarter-card h4 {
+    margin: 0 0 10px;
+}
+
+.quarter-card ul {
+    list-style: none;
+    padding: 0;
+}
+
+.quarter-card ul li {
+    margin-bottom: 5px;
+}
+
+.quarter-card p {
+    margin-top: 10px;
+    font-weight: bold;
+}

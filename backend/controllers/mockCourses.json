@@ -1,0 +1,59 @@
+[
+    {
+      "CurriculumAbbreviation": "CSS",
+      "CourseNumber": "301",
+      "CourseTitleLong": "Technical Writing",
+      "CourseDescription": "Writing in the context of computer software systems.",
+      "Credits": 5
+    },
+    {
+      "CurriculumAbbreviation": "CSS",
+      "CourseNumber": "342",
+      "CourseTitleLong": "Data Structures, Algorithms, and Discrete Mathematics I",
+      "CourseDescription": "Introduction to data structures and algorithms.",
+      "Credits": 5
+    },
+    {
+      "CurriculumAbbreviation": "CSS",
+      "CourseNumber": "343",
+      "CourseTitleLong": "Data Structures and Algorithms II",
+      "CourseDescription": "Advanced data structures, recursion, sorting, and algorithm analysis.",
+      "Credits": 5
+    },
+    {
+      "CurriculumAbbreviation": "CSS",
+      "CourseNumber": "360",
+      "CourseTitleLong": "Software Engineering",
+      "CourseDescription": "Software development process, requirements, design, testing.",
+      "Credits": 5
+    },
+    {
+      "CurriculumAbbreviation": "CSS",
+      "CourseNumber": "370",
+      "CourseTitleLong": "Object-Oriented Programming",
+      "CourseDescription": "Object-oriented analysis, design, and implementation.",
+      "Credits": 5
+    },
+    {
+      "CurriculumAbbreviation": "CSS",
+      "CourseNumber": "484",
+      "CourseTitleLong": "Computer Security",
+      "CourseDescription": "Covers security principles, cryptography, networks.",
+      "Credits": 5
+    },
+    {
+      "CurriculumAbbreviation": "CSS",
+      "CourseNumber": "485",
+      "CourseTitleLong": "Machine Learning",
+      "CourseDescription": "Supervised and unsupervised learning, decision trees, SVMs.",
+      "Credits": 5
+    },
+    {
+      "CurriculumAbbreviation": "CSS",
+      "CourseNumber": "497",
+      "CourseTitleLong": "Capstone Project",
+      "CourseDescription": "Team-based project focused on building software solutions.",
+      "Credits": 5
+    }
+  ]
+  
